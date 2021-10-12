@@ -45,17 +45,17 @@ document.querySelector(".cls").onclick = function () {
 
 document.querySelector(".faisal-akhtar").ondblclick = function () {
     setTimeout( ()=> { this.classList.remove("selected") }, 2 )
-    window.open("https://faisalakhtar.github.io/")
+    window.open("https://www.facebook.com/Le-Fond-Du-Baril-108565799223813/photos/?ref=page_internal&tab=album")
 }
 
 document.querySelector(".my-computer").ondblclick = function () {
     setTimeout( ()=> { this.classList.remove("selected") }, 2 )
-    window.open("https://github.com/faisalAkhtar/")
+    window.open("https://fouinkk.github.io/msn-window//")
 }
 
 document.querySelector(".my-network").ondblclick = function () {
     setTimeout( ()=> { this.classList.remove("selected") }, 2 )
-    window.open("https://twitter.com/faisallakhtarr/")
+    window.open("https://www.facebook.com/photo/?fbid=27679084886&set=pob.612484886")
 }
 
 document.querySelector(".note-pad").ondblclick = function () {
