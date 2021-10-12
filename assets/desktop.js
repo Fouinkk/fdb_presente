@@ -66,7 +66,7 @@ document.querySelector(".note-pad").ondblclick = function () {
     document.querySelector(".window").classList.remove("minimized")
 }
 
-document.querySelector("textarea").value = "Hello World!\n\nFeatures:\n- Desktop icons are clickable. Double clicking them takes you to some of my links (github, twitter, portfolio).\n- Time in system-tray is your system's time.\n- This window is draggable, closable, minimizable and maximizable. Try it.\n- The opened tabs in taskbar also take you to my links, same as the icons.\n______________________________\n\nThe code is on github. Star the repository if you liked this. Contributions to this repository are welcome and appreciated.\n______________________________\n\nDo follow me on github (@faisalakhtar) and twitter(@faisallakhtarr). Open 'My Computer' and 'My Network' to go to these links.\n"
+document.querySelector("textarea").value = "Hey Hustlers!\n\nAvant toute chose, nous tenons à vous mentionner qu'il faut être conscient qu'on est encore en temps de covid et par le fait même limité par des réglementations. Nous avons tout pris en compte afin de vous offrir le party le plus séquel tout en maximisant nos chances de ne pas avoir de problèmes judiciaires.\n\nCeci étant dit, le Party commence ici\n\nConsignes:\n- Afin d'obtenir les informations concernant le party, vous devrez aller sur MSN sporadiquement.\n\n- Toutes les icônes sur le bureau vous donnent un accès à du contenu exclusif.\n\n\nEnjoy\n\n"
 
 
 dragWindow(document.querySelector(".window"));
