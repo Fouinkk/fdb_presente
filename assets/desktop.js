@@ -53,6 +53,11 @@ document.querySelector(".my-computer").ondblclick = function () {
     window.open("https://fouinkk.github.io/msn-window//")
 }
 
+document.querySelector(".my-games").ondblclick = function () {
+    setTimeout( ()=> { this.classList.remove("selected") }, 2 )
+    window.open("https://poki.com/en/g/bubble-trouble?campaign=14726801000&adgroup=128802436698&target=kwd-58224766&location=9000256&creative=547315265407&placement=&gclid=CjwKCAjw8KmLBhB8EiwAQbqNoDSKYkLwr3_upVC5DhZmz8DVAbS0Jxu3gvT-uQAvN5obJbagNIiKfRoClCEQAvD_BwE")
+}
+
 document.querySelector(".my-network").ondblclick = function () {
     setTimeout( ()=> { this.classList.remove("selected") }, 2 )
     window.open("https://www.facebook.com/photo/?fbid=27679084886&set=pob.612484886")
